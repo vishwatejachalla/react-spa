@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import Display from './display';
+
 
 class Update extends React.Component {
     constructor(props) {
@@ -18,7 +18,7 @@ class Update extends React.Component {
         this.getLocationUpdate = this.getLocationUpdate.bind(this)
         this.updateFriend = this.updateFriend.bind(this)
         // this.getFriendWithId = this.getFriendWithId.bind(this)
-        <Display ></Display>
+
             console.log("Get friend with ID: " + this.new);
             axios.get('http://localhost:3001/data/' +this.new )
                 .then(res => {
