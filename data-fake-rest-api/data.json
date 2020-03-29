@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "name": "OBBOOO",
+      "location": "Chennai",
+      "likes": 6,
+      "dislikes": 5,
+      "id": 1
+    },
+    {
+      "name": "Kicks",
+      "location": "Chepauk",
+      "likes": 32,
+      "dislikes": 13,
+      "id": 2
+    },
+    {
+      "name": "Takia",
+      "location": "Kalam-undra",
+      "likes": 50,
+      "dislikes": 21,
+      "id": 4
+    },
+    {
+      "name": "MulamSingh",
+      "location": "Punjab",
+      "likes": 7,
+      "dislikes": 3,
+      "id": 5
+    }
+  ]
+}

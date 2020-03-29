@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "OBBOOO",
+      "location": "Chennai",
+      "likes": 6,
+      "dislikes": 5,
+      "id": 1
+    },
+    {
+      "name": "Kicks",
+      "location": "Chepauk",
+      "likes": 32,
+      "dislikes": 13,
+      "id": 2
+    },
+    {
+      "name": "Takia",
+      "location": "Kalam-undra",
+      "likes": 50,
+      "dislikes": 21,
+      "id": 3
+    },
+    {
+      "name": "MulamSingh",
+      "location": "Punjab",
+      "likes": 7,
+      "dislikes": 3,
+      "id": 4
+    },
+    {
+      "name": "hari",
+      "location": "Hanuman",
+      "id": 5
+    },
+    {
+      "name": "Hemanth ",
+      "location": "nandigama",
+      "id": 6
+    },
+    {
+      "name": "Jaggan",
+      "location": "Jamaladugu",
+      "id": 7
+    },
+    {
+      "name": "Manish",
+      "location": "Antp",
+      "id": 8
+    }
+  ]
+}
