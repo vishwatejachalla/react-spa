@@ -52,7 +52,7 @@ class Display extends React.Component {
                     <td>{friend.name}</td>
                     <td>{friend.location}</td>
                     <td>
-                        <button onClick={()=>this.receiveIdAndUpdate(friend.id)} ><Link to="/update">Update</Link></button>
+                        <button onClick={()=>this.receiveIdAndUpdate(friend.id)} ><Link to={"/update/"+friend.id}>Update</Link></button>
                     </td>
                     <td>
                         <button onClick={()=>this.receiveIdAndDelete(friend.id)} >Delete</button>
